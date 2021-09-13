@@ -1,0 +1,21 @@
+_repo: Constantinople-de-Byzance-a-Stamboul_66261
+_version: 0.0.1
+contributor:
+  translator: &id001
+    agent_name: Arseven, Celâl Esad
+    gutenberg_agent_id: '53714'
+    url: http://www.gutenberg.org/2009/agents/53714
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2021-09-10'
+identifiers:
+  gutenberg: '66261'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Constantinople de Byzance à  Stamboul.
+url: http://www.gutenberg.org/ebooks/66261
