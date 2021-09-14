@@ -1,13 +1,18 @@
 _repo: Constantinople-de-Byzance-a-Stamboul_66261
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator: &id001
     agent_name: Arseven, Celâl Esad
     gutenberg_agent_id: '53714'
     url: http://www.gutenberg.org/2009/agents/53714
+covers:
+- cover_type: archival
+  image_path: 66261-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66261#Constantinople-de-Byzance-a-Stamboul
 gutenberg_issued: '2021-09-10'
 identifiers:
   gutenberg: '66261'
